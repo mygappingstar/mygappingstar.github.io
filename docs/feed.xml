@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Northeast Naturals</title>
+    <description>Maine’s premier, craft medical cannabis.
+</description>
+    <link>http://NortheastNaturals.com/</link>
+    <atom:link href="http://NortheastNaturals.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 30 Mar 2017 17:21:43 +0700</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2017 17:21:43 +0700</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>First blog!</title>
+        <description>&lt;p&gt;long &lt;strong&gt;blog&lt;/strong&gt; post…&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Mar 2017 01:56:04 +0700</pubDate>
+        <link>http://NortheastNaturals.com/blog/2017/03/30/first-blog.html</link>
+        <guid isPermaLink="true">http://NortheastNaturals.com/blog/2017/03/30/first-blog.html</guid>
+        
+        <category>foo</category>
+        
+        <category>bar</category>
+        
+        <category>boo</category>
+        
+        <category>lar</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
